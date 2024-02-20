@@ -1,0 +1,6 @@
+git init - initialize git repository in the specified/selected folder
+git remote add origin 'url' - connect to remote repository with local repository 
+git add 'file' - add specified file to the repository
+git status - display current status of the working directory and staging area in a Git repository
+git commit -m 'message' - commit the git and along with the commited message
+git add . - add all the files in the selected folder
