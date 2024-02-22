@@ -1,0 +1,6 @@
+pwd - Display Current Working Directory.
+rmdir - Remove Empty Directory from directory lists.
+cd <Path> - Direct to Spectified Path.
+clear - Clear the contents of the terminal.
+cal - View Calendar in terminal.
+mv <old_name> <new_name> - Rename the file.
