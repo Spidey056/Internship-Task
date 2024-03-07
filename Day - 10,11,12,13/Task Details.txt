@@ -1,0 +1,1 @@
+#Create a JSON Job Settings for Dash - Iso, HLS - 720p,1080p Format in AWS Lambda.
