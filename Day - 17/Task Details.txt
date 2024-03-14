@@ -1,0 +1,1 @@
+ #Create a Lambda Function to convert JSON to CSV file and set the trigger in input bucket and output should be placed in another folder/bucket.
